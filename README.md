@@ -4,6 +4,11 @@ This is budget tracker app that uses progressive web application (PWA) that allo
 
 [Link to Deploy App](https://stark-headland-77425.herokuapp.com/)
 
+# Screenshot
+
+<img width="1244" alt="Screen Shot 2021-11-07 at 8 24 44 PM" src="https://user-images.githubusercontent.com/89366416/140671028-25b54d15-d183-4954-bb7f-052711ef5f2d.png">
+
+
 
 # Description
     AS AN avid traveler
