@@ -31,4 +31,4 @@ This is budget tracker app that allows the user to add expenses and make deposit
 
 
 # Credits
-[DeAnna Martinez](https://github.com/deannapi)
+[Kenneth E](https://github.com/deannapi)
