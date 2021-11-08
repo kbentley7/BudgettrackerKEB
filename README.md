@@ -32,3 +32,4 @@ This is budget tracker app that allows the user to add expenses and make deposit
 
 # Credits
 [Kenneth E Bentley Sr.](https://github.com/kbentley7/BudgettrackerKEB)
+[My Email](kenmo8466@gmail.com)
