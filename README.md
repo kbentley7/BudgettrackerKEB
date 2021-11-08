@@ -23,6 +23,7 @@ This is budget tracker app that uses progressive web application (PWA) that allo
 
 # Tools
 There are several tools used in creating this app
+
 [IndexedDB]()
 
 [NoSQL]()
@@ -38,4 +39,5 @@ There are several tools used in creating this app
 
 # Credits
 [Kenneth E Bentley Sr.](https://github.com/kbentley7/BudgettrackerKEB)
+
 [My Email](kenmo8466@gmail.com)
