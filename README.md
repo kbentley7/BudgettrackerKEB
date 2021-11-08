@@ -17,6 +17,7 @@ This is budget tracker app that allows the user to add expenses and make deposit
     THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 # Tools
+There are several tools used in creating this app
 [IndexedDB]()
 
 [NoSQL]()
