@@ -1,6 +1,6 @@
 # Budgettracker
 
-This is budget tracker app that uses progressive web application (PWA) that allows the user to add expenses and make deposits while giving the user a money balance.  The app is available offline and will still have full functionality.
+
 
 [Link to Deployed App](https://stark-headland-77425.herokuapp.com/)
 
